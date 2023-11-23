@@ -19,4 +19,5 @@
 
 # 사용해보기
 
-- URL: https://www.aibici.co.kr/
+Available on Online Website:
+https://www.aibici.co.kr/
