@@ -1,0 +1,28 @@
+.fadeInAnimationShort {
+  animation: fadeIn 1s ease 0s 1 normal forwards;
+  opacity: 0;
+}
+
+.fadeInAnimationMiddle {
+  animation: fadeIn 1s ease 0.5s 1 normal forwards;
+  opacity: 0;
+}
+
+.fadeInAnimationLong {
+  animation: fadeIn 1s ease 1s 1 normal forwards;
+  opacity: 0;
+}
+
+.hideScroll::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
